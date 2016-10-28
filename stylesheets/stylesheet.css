@@ -16,7 +16,9 @@
   height: 300px;
 }
 
+/* center content, a bit narrower than the rest */
 #content{
+  margin: auto;
   width: 70%;
   border: dotted orange 5px;
 }
