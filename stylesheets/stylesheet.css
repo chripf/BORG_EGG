@@ -2,6 +2,7 @@
   margin: auto;
   width: 80%;
   border: dotted green 5px;
+  padding: 10px;
 }
 
 /* inside the header, center everything */
