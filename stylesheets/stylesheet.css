@@ -1,8 +1,12 @@
 #page-header {
+  margin: auto;
   width: 80%;
   border: dotted green 5px;
 }
 
-#page-header > *{
+/* inside the header, center everything */
+#page-header > *{  
   margin: auto;
+  display: block;
+  text-align: center;
 }
