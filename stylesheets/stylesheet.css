@@ -22,6 +22,10 @@
   background-color: #ffffe6;
 }
 
+#intro pre{
+  display: inline;
+}
+
 /* center content, a bit narrower than the rest */
 #content{
   margin: auto;
