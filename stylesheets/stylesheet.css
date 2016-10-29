@@ -17,6 +17,11 @@
   height: 300px;
 }
 
+#intro {
+  padding: 10px;
+  background-color: #ffffe6;
+}
+
 /* center content, a bit narrower than the rest */
 #content{
   margin: auto;
