@@ -9,6 +9,10 @@ body{
   background-color: yellow;
 }
 
+#header img{
+  height: 100px;
+}
+
 .left{
   width: 30%;
   background-color: green;  
